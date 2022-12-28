@@ -22,7 +22,8 @@
 
 
 # ✏️ Blog
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@0sunset0">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://velog.io/@0sunset0" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+
 <br>
 
 # 🥇Baekjoon solved rank
