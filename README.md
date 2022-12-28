@@ -1,5 +1,3 @@
-<br>
-
 
 # 👩🏻About me
   &nbsp;&nbsp;&nbsp;&nbsp; ☑️ 부분보다 전체적인 것에 집중하며 개발의 완성도를 높입니다.
