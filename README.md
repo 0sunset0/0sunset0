@@ -1,5 +1,5 @@
 
-# 👩🏻About me
+# 👩🏻 About me
   &nbsp;&nbsp;&nbsp;&nbsp; ☑️ 부분보다 전체적인 것에 집중하며 개발의 완성도를 높입니다.
 
   &nbsp;&nbsp;&nbsp;&nbsp; ☑️ 필요하다고 생각하면 새로운 기술을 배우려고 노력합니다.
