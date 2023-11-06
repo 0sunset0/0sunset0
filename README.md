@@ -1,13 +1,4 @@
 
-# 👩🏻 About me
-  &nbsp;&nbsp;&nbsp;&nbsp; ☑️ 부분보다 전체적인 것에 집중하며 개발의 완성도를 높입니다.
-
-  &nbsp;&nbsp;&nbsp;&nbsp; ☑️ 필요하다고 생각하면 새로운 기술을 배우려고 노력합니다.
-
-  &nbsp;&nbsp;&nbsp;&nbsp; ☑️ 같은 기능에서도 `좋은 코드`에 대해 고민합니다.
-
-<br>
-
 # 💻 Stack
 
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -18,11 +9,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
-<br>
-
-
-# ✏️ Blog
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://velog.io/@0sunset0" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 <br>
 
